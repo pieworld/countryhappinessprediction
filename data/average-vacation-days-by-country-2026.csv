@@ -1,0 +1,187 @@
+"flagCode","country","AverageVacationDays_MinimumTotalPaidLeave_days_YearFree","AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree","AverageVacationDays_PaidPublicHolidays_days_YearFree"
+"IR","Iran",53,26,27
+"KI","Kiribati",46,30,16
+"BF","Burkina Faso",45,30,15
+"KH","Cambodia",45,18,27
+"AD","Andorra",45,31,14
+"AE","United Arab Emirates",44,30,14
+"BH","Bahrain",44,30,14
+"KW","Kuwait",43,30,13
+"RU","Russia",42.5,28.5,14
+"FR","France",42,31,11
+"LU","Luxembourg",42,28.5,11
+"DZ","Algeria",41,30,11
+"MT","Malta",41,27,14
+"LK","Sri Lanka",40,20,20
+"KZ","Kazakhstan",40,24,16
+"AZ","Azerbaijan",40,21,19
+"PA","Panama",40,30,10
+"AL","Albania",40,28,12
+"GE","Georgia",39,24,15
+"EE","Estonia",39,28,12
+"AT","Austria",38,25,13
+"MU","Mauritius",38,22,16
+"IS","Iceland",38,24,14
+"DK","Denmark",37.5,27.5,10
+"TZ","Tanzania",37,20,17
+"YE","Yemen",37,22,15
+"UA","Ukraine",37,24,13
+"SY","Syria",37,24,13
+"RO","Romania",37,20,17
+"BJ","Benin",37,24,13
+"LB","Lebanon",37,15,22
+"MH","Marshall Islands",37,26,11
+"ES","Spain",36,22,14
+"PL","Poland",36,23,13
+"FI","Finland",36,25,11
+"AM","Armenia",36,20,12
+"IN","India",35,25,10
+"KR","South Korea",35,20,15
+"AF","Afghanistan",35,20,15
+"MG","Madagascar",35,22,13
+"NO","Norway",35,25,10
+"BA","Bosnia and Herzegovina",35,25,10
+"DJ","Djibouti",35,25,10
+"EG","Egypt",34,21,17
+"CI","Ivory Coast",34,20,14
+"SE","Sweden",34,25,9
+"SK","Slovakia",34,22.5,14
+"LT","Lithuania",34,20,14
+"GA","Gabon",34,20,14
+"CY","Cyprus",34,20,14
+"ST","Sao Tome and Principe",34,25,9
+"SC","Seychelles",34,21,13
+"CO","Colombia",33,15,18
+"AO","Angola",33,22,11
+"NE","Niger",33,22,11
+"ZW","Zimbabwe",33,22,11
+"GN","Guinea",33,22,11
+"CU","Cuba",33,22,9
+"CZ","Czechia",33,20,13
+"HU","Hungary",33,20,13
+"BY","Belarus",33,24,9
+"HR","Croatia",33,20,13
+"SI","Slovenia",33,20,13
+"IT","Italy",32,20,12
+"SN","Senegal",32,20,12
+"SS","South Sudan",32,20,12
+"BG","Bulgaria",32,20,12
+"NZ","New Zealand",32,20,12
+"LV","Latvia",32,20,12
+"MK","North Macedonia",32,20,12
+"KE","Kenya",31,21,10
+"ZM","Zambia",31,20,11
+"BO","Bolivia",31,20,11
+"PT","Portugal",31,22,9
+"RS","Serbia",31,20,11
+"OM","Oman",31,22,9
+"ID","Indonesia",30,12,18
+"DE","Germany",30,20,10
+"SA","Saudi Arabia",30,21,9
+"AU","Australia",30,20,10
+"CL","Chile",30,15,15
+"BI","Burundi",30,17,13
+"BE","Belgium",30,20,10
+"IE","Ireland",30,20,10
+"GQ","Equatorial Guinea",30,30,
+"SR","Suriname",30,12,18
+"PK","Pakistan",29,14,15
+"GB","United Kingdom",29,20,9
+"AR","Argentina",29,10,19
+"VE","Venezuela",29,15,14
+"GR","Greece",29,20,9
+"BW","Botswana",29,15,14
+"PE","Peru",28.5,16.5,12
+"TW","Taiwan",28.5,16.5,12
+"BR","Brazil",28,16,13
+"UG","Uganda",28,15,13
+"GH","Ghana",28,15,13
+"NP","Nepal",28,15,13
+"NL","Netherlands",28,20,8
+"HK","Hong Kong",27.5,10.5,17
+"ZA","South Africa",27,15,12
+"TD","Chad",27,24,3
+"HT","Haiti",27,11,16
+"CH","Switzerland",27,20,7
+"BZ","Belize",27,14,13
+"LC","Saint Lucia",27,14,13
+"TR","Turkey",26.5,12,14.5
+"RW","Rwanda",26,15,11
+"JO","Jordan",26,14,12
+"CG","Republic of the Congo",26,26,
+"SV","El Salvador",26,15,11
+"ET","Ethiopia",25,12,13
+"CA","Canada",25,15,10
+"MA","Morocco",25,15,13
+"GT","Guatemala",25,15,10
+"UY","Uruguay",25,20,5
+"QA","Qatar",25,15,10
+"KM","Comoros",25,25,
+"MM","Myanmar",24,10,14
+"CF","Central African Republic",24,24,
+"TT","Trinidad and Tobago",24,10,14
+"CN","China",23,10,13
+"VN","Vietnam",23,12,11
+"EC","Ecuador",23,11,12
+"DO","Dominican Republic",23,10,13
+"GD","Grenada",23,10,13
+"AG","Antigua and Barbuda",23,12,11
+"ML","Mali",22,22,
+"SO","Somalia",22,13,9
+"TG","Togo",22,22,
+"LY","Libya",22,22,
+"PY","Paraguay",22,10,12
+"MR","Mauritania",22,15,7
+"LS","Lesotho",22,12,10
+"GW","Guinea-Bissau",22,22,
+"FJ","Fiji",22,10,12
+"MV","Maldives",22,22,
+"CV","Cape Verde",22,22,
+"DM","Dominica",22,10,12
+"SG","Singapore",21.5,10.5,11
+"BD","Bangladesh",21,10,11
+"IL","Israel",21,12,9
+"LR","Liberia",21,10,11
+"GM","Gambia",21,21,
+"ME","Montenegro",21,21,
+"WS","Samoa",21,10,11
+"SD","Sudan",20,20,
+"IQ","Iraq",20,20,
+"KG","Kyrgyzstan",20,20,
+"NI","Nicaragua",20,11,9
+"NA","Namibia",20,20,
+"MD","Moldova",20,20,
+"BS","Bahamas",20,10,10
+"TO","Tonga",20,20,
+"MX","Mexico",19,12,7
+"TH","Thailand",19,6,13
+"MZ","Mozambique",19,10,9
+"MY","Malaysia",19,8,11
+"HN","Honduras",19,8,11
+"PG","Papua New Guinea",19,10,9
+"CR","Costa Rica",19,10,9
+"JE","Jersey",19,10,9
+"CM","Cameroon",18,18,
+"SL","Sierra Leone",18,18,
+"BN","Brunei",18,7,11
+"PH","Philippines",17,5,12
+"TN","Tunisia",16,10,6
+"VC","Saint Vincent and the Grenadines",16,16,
+"JP","Japan",15,15,
+"UZ","Uzbekistan",15,15,
+"LA","Laos",15,15,
+"MN","Mongolia",15,15,
+"PR","Puerto Rico",15,15,
+"SB","Solomon Islands",15,15,
+"VU","Vanuatu",15,15,
+"BB","Barbados",15,15,
+"CD","DR Congo",12,12,
+"ER","Eritrea",12,12,
+"TL","Timor-Leste",12,12,
+"GY","Guyana",12,12,
+"JM","Jamaica",10,10,
+"SM","San Marino",10,10,
+"BT","Bhutan",9,9,
+"NG","Nigeria",5,5,
+"MW","Malawi",,18,
+"KN","Saint Kitts and Nevis",,12,
